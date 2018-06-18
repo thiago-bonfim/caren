@@ -433,7 +433,7 @@ header .header-content .header-content-inner h2.caren-header-h2 {
   background-size: cover;
   -o-background-size: cover;
   background-position: top;
-  background-image: url('../img/download.jpg');
+  /*background-image: url('../img/download.jpg');*/
   text-align: center;
   color: white;
 }
