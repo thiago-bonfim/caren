@@ -410,6 +410,7 @@ header .header-content .header-content-inner h2.caren-header-h2 {
 .green-list{padding: 0px; font-size: 21px; font-weight: 300; margin-top: 70px;}
 .green-list li{margin-bottom: 30px;}
 .green-list .fa{color: #25e2bb;}
+.green-list{text-align: left;}
 .green-separator{background: #25e2bb;}
 
 
